@@ -14,30 +14,30 @@ baseurl: /surveygraphproject.github.io/Landing-Page
 #
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
-data-ad-slot: 2973388149
-data-ad-client: ca-pub-9204963049240271
-google_ad_client: ca-pub-9204963049240271
+# data-ad-slot: 2973388149
+# data-ad-client: ca-pub-9204963049240271
+# google_ad_client: ca-pub-9204963049240271
 
 post_limit: 5
 
 
-title : Helium Jekyll
-tagline: Bootstrap 4 UI kit for jekyll
+title : Super Survey
+tagline: 極度調査（しなさい）。
 author : 
-  name : Antonio Trento
-  site: https://lantoniotrento.github.io
+  name : Atom Scott
+  site: https://atomscott.github.io
   description : I&#39;m a web master interested in communication applied to web marketing.
   image : social-image.png
-  email : lantoniotrento@gmail.com
-  github : antoniotrento
-  twitter : lantoniotrento
-  facebook: lantoniotrento
-  linkedin: antoniotrento
-  instagram: lantoniotrento
-  pinterest: antoniotrento
+  email : atomjamesscott@gmail.com
+  github : atomscott
+  twitter : atomjamesscott
+  facebook: 
+  linkedin: 
+  instagram: 
+  pinterest: 
   feedburner : 
 
-twitter_username: lantoniotrento
+twitter_username: atomjamesscott
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
